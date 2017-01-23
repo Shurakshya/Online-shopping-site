@@ -1,0 +1,15 @@
+body{
+	
+	
+}
+#create{
+	background-color:black;
+	color:white;
+	
+}
+
+#name,#email, #pass, #cpass, #fnm, #lnm, #cnm, #pho, #aln1, #aln2, #sc, #cntry, #sp, #zpc,#desc{
+	
+	border:1px solid black;
+	
+}

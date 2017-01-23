@@ -1,0 +1,17 @@
+
+body{
+	background:url(http://cdn1.bigcommerce.com/r-2f88f07c87a534f827280ca29dcbb47af013d2e2/themes/GreaseMonkey/images/texture_top.png) transparent top center  no-repeat;
+	margin-left:75px; margin-right:75px;
+	
+}
+#create{
+	background-color:black;
+	color:white;
+	
+}
+
+#email, #pass, #cpass, #fnm, #lnm, #cnm, #pho, #aln1, #aln2, #sc, #cntry, #sp, #zpc{
+	
+	border:1px solid black;
+	
+}
